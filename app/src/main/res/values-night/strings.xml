@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="editTextCopiar">Escribe el texto a copiar</string>
+    <string name="botonextablecer1">Establecer</string>
+    <string name="texto_a_copiar">Texto  a Copiar</string>
+    <string name="hint_cajatexto1">Escribe el Texto para Copiar</string>
+    <string name="pegar">Pegar</string>
+    <string name="textviewpegar">Aqui se pega el texto</string>
+</resources>

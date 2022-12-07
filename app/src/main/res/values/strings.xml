@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CopiarYPegar</string>
+    <string name="editTextCopiar">Escribe el texto a copiar</string>
+    <string name="botonextablecer">Establecer</string>
+    <string name="texto_a_copiar">Texto  a Copiar</string>
+    <string name="hint_cajatexto">Escribe el Texto para Copiar</string>
+    <string name="pegar">Pegar</string>
+    <string name="textviewpegar">Aqui se pega el texto</string>
+</resources>
